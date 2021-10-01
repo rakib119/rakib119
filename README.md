@@ -23,7 +23,7 @@
 <img align="left" alt="Bootstrap" width="26px" src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38839/preview.svg" />
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="PHP" width="26px" src="https://imgbin.com/png/w1rKTuU5/php-java-png" />
+<img align="left" alt="PHP" width="26px" src="https://www.iconspng.com/images/php-logo.jpg" />
 
 <img align="left" alt="Laravel" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" />
 
